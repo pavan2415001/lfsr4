@@ -1,7 +1,0 @@
-Running: xsim.dir/lfsr_behav/xsimk.exe -simmode gui -wdb lfsr_behav.wdb -simrunnum 0 -socket 61020
-Design successfully loaded
-Design Loading Memory Usage: 10924 KB (Peak: 10924 KB)
-Design Loading CPU Usage: 62 ms
-Simulation completed
-Simulation Memory Usage: 11860 KB (Peak: 11860 KB)
-Simulation CPU Usage: 108 ms
