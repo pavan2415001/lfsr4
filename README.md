@@ -61,6 +61,12 @@ The testbench (tb.v):
 - Verifies correct mid-sequence reset recovery
 
 ---
+## Simulation Output
+
+![Simulation Waveform](waveform.png)
+
+The waveform confirms the LFSR correctly cycles through the sequence:
+1 → 3 → 7 → F → E → D → A → 5 → B → 6 → C → 9 and resets properly at ~120 ns.
 
 ## How to Simulate
 
